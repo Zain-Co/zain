@@ -1,7 +1,7 @@
 # Hello, I'm Zain
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**[ Introduction ]**
+//**[ Introduction ]**
 
  I'm diving into the world of cybersecurity with my Advanced Diploma in IT, Networking, and Cloud Computing. I'm on a quest to become a Security Analyst, passionate about unraveling the complexities of digital security. Despite being a newcomer, I bring a hunger to absorb knowledge and apply it in real-world scenarios. My goal? To fortify digital fortresses against cyber threats and contribute to a safer online environment.
  
